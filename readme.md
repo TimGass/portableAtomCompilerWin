@@ -5,6 +5,6 @@ downloaded and installed and MinGW-w64, found at https://sourceforge.net/project
 and put in the Atom folder as well as compile.bat. Terminal in Atom should use
 compile.bat and pass folder and filename to perform compilation. This should give
 you a portable, working Atom that can compile cross-platform C or C++, depending
-on how you set it up (it is designed for C++). I don't claim to own anything
+on how you set it up (it is designed for C++). `Use apm install --packages-file package-list.txt` in the same folder as the package-list.txt. I don't claim to own anything
 other than the scripts that I have written and I do not claim to own Atom or LLVM
 or MinGW-w64. I just am offering my own personal blend for my use and for others.
